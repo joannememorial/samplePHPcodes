@@ -1,4 +1,6 @@
-Copyright (c) 2012, Regents of the University of California.
+Copyright (c) 2012, Maria Joanne Alexandria M. Memorial
+DE LA SALLE-COLLEGE OF SAINT BENILDE
+Bachelor of Science in Information Systems
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
